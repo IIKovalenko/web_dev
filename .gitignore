@@ -1,7 +1,7 @@
 /.git
 /.idea
 /env
-/__pycache__
+/__pycache__/
 /uploads
 /templates
 /web_app/config.py
